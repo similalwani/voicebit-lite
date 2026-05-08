@@ -1,6 +1,6 @@
-# VoiceBit Lite - A diminutiive simulation of https://voicebit.ai
+# VoiceBit Lite 
 
-A personal prototype of [VoiceBit AI](https://voicebit.ai) — a voice-powered restaurant ordering platform I'm building. This is a smaller version I put together to validate the core idea end to end.
+A diminutive prototype of [VoiceBit AI](https://voicebit.ai) — a voice-powered restaurant ordering platform I'm building. This is a smaller version I put together to validate the core idea end to end.
 
 ## The idea
 
