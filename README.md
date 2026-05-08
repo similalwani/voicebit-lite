@@ -21,9 +21,7 @@ FastAPI · Groq (Whisper + Llama 3.3) · SQLite · Stripe *(in progress)* · Red
 - [x] REST API + order management
 - [x] Persistent storage
 - [x] Payments (mock)
-- [ ] Caching (Redis)
-- [ ] Auth
-- [ ] Async processing
+
 
 - Voice Transcription: Implemented via the /transcribe endpoint using Groq (Whisper).
 - AI-Powered Order Parsing: Implemented via the /parse-order endpoint using Groq (Llama 3.3).
