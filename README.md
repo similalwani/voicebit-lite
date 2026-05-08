@@ -23,6 +23,9 @@ FastAPI · Groq (Whisper + Llama 3.3) · SQLite · Stripe *(in progress)* · Red
 - [x] Payments (mock)
 
 
+
+## Details 
+
 - Voice Transcription: Implemented via the /transcribe endpoint using Groq (Whisper).
 - AI-Powered Order Parsing: Implemented via the /parse-order endpoint using Groq (Llama 3.3).
 - Voice-to-Order Flow: A combined /voice-order endpoint handles transcription, parsing, and order creation in one
